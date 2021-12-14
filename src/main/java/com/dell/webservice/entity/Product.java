@@ -3,6 +3,7 @@ package com.dell.webservice.entity;
 public class Product {
 	
 	//properties
+	//
 	private int id;
 	private String name;
 	private double price;
